@@ -71,3 +71,11 @@ I am interested in Machine Learning and Generative AI, with a focus on building 
 
 ---
 
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunderulokesh&show_icons=true&locale=en" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunderulokesh&layout=compact&locale=en" />
+</p>
