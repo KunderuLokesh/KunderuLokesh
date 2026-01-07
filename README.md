@@ -38,35 +38,90 @@ I am interested in Machine Learning and Generative AI, with a focus on building 
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://www.cprogramming.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://go.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go" />
+  </a>
 </p>
 
 ---
 
 ### Machine Learning & Data
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,pandas" />
+  <a href="https://scikit-learn.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sklearn" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+  <a href="https://pytorch.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </a>
+  <a href="https://opencv.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=opencv" />
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pandas" />
+  </a>
 </p>
 
 ---
 
 ### Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs" />
+  <a href="https://flask.palletsprojects.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
 </p>
 
 ---
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 </p>
 
 ---
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,linux,git" />
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" />
+  </a>
+  <a href="https://www.kernel.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
 </p>
 
 ---
